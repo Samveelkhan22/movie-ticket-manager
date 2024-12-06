@@ -24,9 +24,13 @@ A simple Python application to manage movie ticket sales for a theater. This pro
 - Enter the number corresponding to the movie you'd like to see.
 - The system will update the ticket count and notify you of successful purchases or sold-out movies.
 
+---
+
 ## Requirements
 
 - Python 3.x
+
+---
 
 ## Future Enhancements
 
